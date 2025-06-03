@@ -31,4 +31,4 @@ An interactive web application built with **Streamlit**, allowing users to:
 ## ▶️ How to Run
 
 1. Clone the repository:
-http://localhost:8501
+http://localhost:8502/
